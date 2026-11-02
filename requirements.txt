@@ -1,0 +1,13 @@
+# Configuration
+pydantic-settings
+
+# AI workflow and Groq integration
+langgraph
+langchain-groq
+
+# Data validation
+pydantic
+
+# Testing
+pytest
+pytest-asyncio

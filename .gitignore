@@ -18,3 +18,11 @@ htmlcov/
 # Editor and OS files
 .DS_Store
 .vscode/
+
+# Downloaded models and generated data
+app/models/piper/
+chroma_data/
+
+# Generated audio files
+*.wav
+audio.m4a
